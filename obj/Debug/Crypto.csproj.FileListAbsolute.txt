@@ -1,5 +1,0 @@
-w:\github.com\jonoxx\Crypto\bin\Debug\Crypto.dll
-w:\github.com\jonoxx\Crypto\bin\Debug\Crypto.pdb
-w:\github.com\jonoxx\Crypto\obj\Debug\Crypto.csprojResolveAssemblyReference.cache
-w:\github.com\jonoxx\Crypto\obj\Debug\Crypto.dll
-w:\github.com\jonoxx\Crypto\obj\Debug\Crypto.pdb
